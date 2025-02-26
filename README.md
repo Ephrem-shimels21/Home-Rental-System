@@ -1,3 +1,17 @@
+## Developers
+
+1. Fasika Fikadu (Team Lead and README Writer) - Email: fasikafikadu38@gmail.com
+2. Dagmawi Tensay
+3. Deribew Shimles
+4. Ephrem Shimels --------------------- Email: ephrem21shimels@gmail.com
+5. Birhanu Asmamaw
+6. Natnael Yimer
+7. Enyew Anberber
+8. Kaleab Tibebu
+9. Natnael Dajene
+
+
+
 # Home Rental System
 
 Home Rental System was designed to connect lessees and landlords in Addis Ababa using HTML, CSS, JavaScript, and Bootstrap as frontend tools, and Node.js (NestJS) as the backend language and framework.
@@ -82,17 +96,7 @@ The system provides the necessary frontend and backend functionality to make it 
   </div>
 </div>
 
-## Developers
 
-1. Fasika Fikadu (Team Lead and README Writer) - Email: fasikafikadu38@gmail.com
-2. Dagmawi Tensay
-3. Deribew Shimles
-4. Ephrem Shimles
-5. Birhanu Asmamaw
-6. Natnael Yimer
-7. Enyew Anberber
-8. Kaleab Tibebu
-9. Natnael Dajene
 
 
 
